@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background: #BDF0F4;
+	
+	 
+}
+ #ima2,  #ima3, #ima4{
+		
+		width: 10em;
+		height: 10em;
+		
+	}	
+#ima1{
+	width: 20em;
+	height: 20em;
+	
+}
+.lin1{
+    display: inline-block;
+	background: #4CAADF;
+	border: #999C1C groove;
+	font-size: 200%;
+	margin: 2%;
+	font-family: "Comic Sans MS"; 
+		
+}
+#p1{
+	text-align: center;
+	position: relative;
+	bottom: 400px;
+
+	
+	
+}
+.lin2{
+    display: inline-block;
+	background: #4CAADF;
+	border: #999C1C groove;
+	font-size: 200%;
+	margin: 2%;
+	font-family: "Comic Sans MS"; 
+		
+}
+#p2{
+	text-align: center;
+	position: relative;
+	bottom: 400px;
+	
+}
+
+#ima1{
+	position: relative;
+	left: 40%;
+	top: 100px;
+}
+#ima2{
+	position: relative;
+	left: 50%;
+	top: 280px;
+}
+#ima3{
+	position: relative;
+	left: 5%;
+	bottom: 150px;
+}
+#ima4{
+	position: relative;
+	left: 80%;
+	bottom: 300px;
+	
+}
+header{
+	background: #FFFFFF;
+	border: #C4C4C4 inset;
+	
+}
+.noe{
+	background: #1A72DC;
+	width: 500px;
+	font: italic;
+	font-size: 20px;
+	color: #FBF5F6;
+	
+}
+
